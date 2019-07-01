@@ -12,7 +12,7 @@
 * @added 3.0.0: Return support for "*-xs" removed in Bootstrap-4
 * @see: [Comment](https://github.com/twbs/bootstrap/issues/21881#issuecomment-341972830)
 */
-.btn-group-xs > .btn, .btn-xs {
+.btn-group-xs > .btn, .toggle .btn-xs {
 	padding: .35rem .4rem .25rem .4rem;
 	font-size: .875rem;
 	line-height: .5;
